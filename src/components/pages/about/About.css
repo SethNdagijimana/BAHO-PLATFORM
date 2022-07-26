@@ -1,0 +1,39 @@
+.about-content > h1 {
+    position: absolute;
+    width: 190px;
+    height: 47px;
+    left: 573px;
+    top: 780px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    /* line-height: 47px; */
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+}
+
+.about-content > p {
+
+    position: absolute;
+    width: 1040px;
+    height: 256px;
+    left: 123px;
+    top: 860px;
+    
+    /* w & blue */
+    
+    background: linear-gradient(207.26deg, #2F59D6 17%, rgba(47, 89, 214, 0) 120.35%);
+    color: #fff;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    justify-content: center;
+    border-radius: 40px;
+
+}
